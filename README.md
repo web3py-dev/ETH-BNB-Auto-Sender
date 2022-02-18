@@ -7,4 +7,4 @@
 `Bsc Auto sender bot`
 
    
-# This Bot You Can use only One Transaction. Do you need this bot. Contact me [@web3py_dev](https://t.me/robinson_ar)
+# This Bot You Can use only One Transaction. Do you need this bot. Contact me [@web3py_dev](https://t.me/web3py_dev)
