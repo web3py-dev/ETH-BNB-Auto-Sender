@@ -1,5 +1,6 @@
 # Ether-BNB-Auto-Sender
 
+# This Bot You Can use only One Transaction.
 
 # This Bot you can use ETH/BSC mainnet and testnet.
 
@@ -7,4 +8,4 @@
 `Bsc Auto sender bot`
 
    
-# This Bot You Can use only One Transaction. Do you need this bot. Contact me [@web3py_dev](https://t.me/web3py_dev)
+#Do you need this bot.Contact me [@web3py_dev](https://t.me/web3py_dev)
