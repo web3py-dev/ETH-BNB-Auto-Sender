@@ -7,14 +7,14 @@ Eth Auto sender bot
 Bsc Auto sender bot
 
 
-I have more network Auto sender bot
- Ex,
-   `Ethereum Mainnet`,\n
-   `Binance Smart Chain Mainnet`,\n
-   `Polygon Mainnet`,\n
-   `Arbitrum`,\n
-   `hecoinfo`,\n
-   `Fantom Opera`\n
+I have more network Auto sender bot.
+Ex,
+`Ethereum Mainnet`
+`Binance Smart Chain Mainnet`
+`Polygon Mainnet`
+`Arbitrum`
+`hecoinfo`
+`Fantom Opera`
    
    
    
