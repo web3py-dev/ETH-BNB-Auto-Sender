@@ -4,8 +4,8 @@
 
 # This Bot you can use ETH/BSC mainnet and testnet.
 
-`Eth Auto sender bo `
+`Eth Auto sender bot `
 `Bsc Auto sender bot`
 
    
-#Do you need this bot.Contact me [@web3py_dev](https://t.me/web3py_dev)
+# Do you need this bot.Contact me [@web3py_dev](https://t.me/web3py_dev)
