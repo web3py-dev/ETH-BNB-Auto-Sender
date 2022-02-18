@@ -12,9 +12,9 @@ I have more network Auto sender bot
    Ethereum Mainnet
    Binance Smart Chain Mainnet,
    Polygon Mainnet,
-   Arbitrum,
-   hecoinfo
-   Fantom Opera
+   `Arbitrum`,
+   `hecoinfo`,
+   `Fantom Opera`
    
    
    
