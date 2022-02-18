@@ -1,15 +1,14 @@
 # Ether-BNB-Auto-Sender
 
 
-
-#This Bot you can use ETH/BSC mainnet and testnet
+This Bot you can use ETH/BSC mainnet and testnet
 
 Eth Auto sender bot 
 Bsc Auto sender bot
 
 
 I have more network Auto sender bot
-   Ex,
+ Ex,
    Ethereum Mainnet
    Binance Smart Chain Mainnet,
    Polygon Mainnet,
