@@ -1,6 +1,6 @@
 # Ether-BNB-Auto-Sender
 
-# Check This telegram demo testnet bot [Auto Sender BSC TestNet](https://t.me/autosenderbsctestnetbot)
+# *Check This telegram demo testnet bot [Auto Sender BSC TestNet](https://t.me/autosenderbsctestnetbot)
 
 # This Bot You Can use only One Transaction.
 
